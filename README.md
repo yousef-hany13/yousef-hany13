@@ -55,7 +55,7 @@ A Java-based application designed to manage airline operations and organize flig
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/yousef.hany12)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/yousef-hany.12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-hany-ai/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9.svg?logo=mastodon&logoColor=white)](https://mastodon.social/@YousefHany)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yousef1980hany@gmail.com)
